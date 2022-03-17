@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+#navs {
+    height: 4em;
+    background-color: #333A40;
+}
+
+#CarritoCompras {
+    width: 45px; 
+    height: 45px;
+}
+
+#BannerRestaurant {
+    width: 100%;
+}
+
+#containerCards {
+    padding: 2em;
+}
+
+#itemsAdd {
+    padding-left: 1em;
+    padding-right: 1.5em;
+    font-size: 17px;
+}
+
+#titleRestaurant {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+}
+
+#footerText {
+    font-weight: bold;
+}
+
+#itemPrice {
+    font-weight: bold;
+}
+
+#divButtoms {
+    margin-right: 1em;
+}
+
+.imgFood {
+    margin-top: 1em;
+    height: 12em;
+}
+
+#spanTotalItems {
+    font-weight: bold;
+}
+
+.cardItem {
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+.btn-order {
+    margin-left: 0.5em;
+    border: 1px gray solid;
+}
+
+.btn-row {
+    margin-left: 0.7em;
+}
+
+.btn-border {
+    border: 1px gray solid;
+}
